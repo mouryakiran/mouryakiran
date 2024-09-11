@@ -1,5 +1,13 @@
+<div style="margin: 0; padding: 0; overflow: hidden;">
+  <p align="center" style="margin: 0; padding: 0;">
+    <img src="https://s3.india.com/wp-content/uploads/2020/05/thalapathy-vijay-master-to-release-on-diwali-main.jpg" alt="Project Header" style="width: 100vw; height: auto; border-radius: 40px;"/>
+  </p>
+</div>
+
+
 # 💫 About Me:
 <br><br>🔭 I’m currently working on: Combining my technical skills with my passion for storytelling to develop a short film that incorporates elements of AI and technology.<br><br>👯 I’m looking to collaborate on: Projects that blend technology and creative storytelling, such as interactive films or tech-driven narratives.<br><br>🤝 I’m looking for help with: Scriptwriting and film production techniques to effectively bring my tech-centric stories to life on screen.<br><br>🌱 I’m currently learning: The art of film direction and editing, alongside advanced programming concepts that could be used to innovate in film technology.<br><br>💬 Ask me about: How to merge technology with storytelling or the challenges of writing scripts from a technical perspective.<br><br>⚡ Fun fact: I once used coding to create a visual effects sequence for a short film, blending my technical skills with my love for filmmaking!
+
 
 
 ## 🌐 Socials:
